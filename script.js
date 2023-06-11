@@ -1,0 +1,4 @@
+function Celcius()
+{
+  prompt("sup");
+}
